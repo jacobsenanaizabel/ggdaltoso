@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<img src="./yoshi_standing.gif" width="40" style="transform: scaleX(-1); float:right;"/>
+<img src="https://raw.githubusercontent.com/ggdaltoso/ggdaltoso/master/yoshi_standing.gif" width="40" style="transform: scaleX(-1); float:right;"/>
 
 <a href="https://twitter.com/ggdaltoso">
   <img align="left" alt="Gabriel's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
